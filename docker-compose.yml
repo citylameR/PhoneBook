@@ -1,0 +1,11 @@
+version: '3.0'
+services:
+  db:
+    image: postgres:14.3-alpine3.15
+    restart: always
+    environment:
+      POSTGRES_USER: myuser
+      POSTGRES_PASSWORD: mypassword
+      POSTGRES_DB: phonebook
+    ports:
+      - "5431:5432"

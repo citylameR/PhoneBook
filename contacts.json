@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "first_name": "Алексей",
+        "last_name": "Тетерина",
+        "company": "АО «Владимирова-Овчинникова»",
+        "work_phone": "8 294 551 01 01",
+        "personal_phone": "8 546 303 4871"
+    },
+    {
+        "id": 2,
+        "first_name": "Максим",
+        "last_name": "Одинцов",
+        "company": "АО «Блохина Кудрявцева»",
+        "work_phone": "+7 091 044 6008",
+        "personal_phone": "8 (627) 193-6514"
+    },
+    {
+        "id": 3,
+        "first_name": "Федосий",
+        "last_name": "Артемьева",
+        "company": "Евдокимов и партнеры",
+        "work_phone": "+7 (664) 579-26-34",
+        "personal_phone": "84214485637"
+    },
+    {
+        "id": 4,
+        "first_name": "Вениамин",
+        "last_name": "Кириллов",
+        "company": "Матвеева и партнеры",
+        "work_phone": "+7 754 370 95 47",
+        "personal_phone": "83558969240"
+    },
+    {
+        "id": 5,
+        "first_name": "Мечислав",
+        "last_name": "Быкова",
+        "company": "ООО «Панфилова Шашкова»",
+        "work_phone": "8 (818) 394-54-45",
+        "personal_phone": "+7 880 125 47 68"
+    },
+    {
+        "id": 6,
+        "first_name": "Антип",
+        "last_name": "Елисеев",
+        "company": "АО «Смирнова, Панов и Ершова»",
+        "work_phone": "+7 (068) 425-5978",
+        "personal_phone": "8 (517) 478-1847"
+    },
+    {
+        "id": 7,
+        "first_name": "Леонид",
+        "last_name": "Романова",
+        "company": "ОАО «Дмитриев, Потапов и Павлова»",
+        "work_phone": "+7 (144) 086-9131",
+        "personal_phone": "+7 (501) 128-04-22"
+    },
+    {
+        "id": 8,
+        "first_name": "Регина",
+        "last_name": "Поляков",
+        "company": "РАО «Архипова, Киселева и Гордеев»",
+        "work_phone": "8 (360) 950-2677",
+        "personal_phone": "+7 407 477 49 27"
+    },
+    {
+        "id": 9,
+        "first_name": "Иван",
+        "last_name": "Котова",
+        "company": "СУЭК",
+        "work_phone": "+79222824200",
+        "personal_phone": "+7 (681) 442-27-88"
+    },
+    {
+        "id": 10,
+        "first_name": "Евдоким",
+        "last_name": "Котов",
+        "company": "ИП «Фокин, Прохоров и Власова»",
+        "work_phone": "8 526 754 45 28",
+        "personal_phone": "8 888 940 84 62"
+    },
+    {
+        "id": 11,
+        "first_name": "Милен",
+        "last_name": "Богданова",
+        "company": "ЗАО «Крылова, Семенова и Жданова»",
+        "work_phone": "86259005438",
+        "personal_phone": "+7 (302) 797-7208"
+    },
+    {
+        "id": 12,
+        "first_name": "Лев",
+        "last_name": "Рябова",
+        "company": "НПО «Воронцов Кузьмин»",
+        "work_phone": "+7 (548) 203-7367",
+        "personal_phone": "+7 (113) 580-72-84"
+    },
+    {
+        "id": 13,
+        "first_name": "Ольга",
+        "last_name": "Стрелкова",
+        "company": "Мечел",
+        "work_phone": "+7 (883) 547-09-28",
+        "personal_phone": "+7 (093) 147-9491"
+    },
+    {
+        "id": 14,
+        "first_name": "Аскольд",
+        "last_name": "Филиппова",
+        "company": "ОАО «Карпова Данилова»",
+        "work_phone": "+7 017 635 3746",
+        "personal_phone": "8 681 211 1472"
+    },
+    {
+        "id": 15,
+        "first_name": "Любосмысл",
+        "last_name": "Кириллов",
+        "company": "АО «Третьяков Федотова»",
+        "work_phone": "8 (633) 688-51-95",
+        "personal_phone": "+7 685 252 3579"
+    },
+    {
+        "id": 16,
+        "first_name": "Алла",
+        "last_name": "Давыдова",
+        "company": "Марвел КТ",
+        "work_phone": "+7 495 563 15 16",
+        "personal_phone": "+7 (944) 822-54-50"
+    },
+    {
+        "id": 17,
+        "first_name": "Милий",
+        "last_name": "Сысоев",
+        "company": "РАО «Ефимов-Уварова»",
+        "work_phone": "8 259 135 25 06",
+        "personal_phone": "+7 (098) 032-43-08"
+    },
+    {
+        "id": 18,
+        "first_name": "Жанна",
+        "last_name": "Давыдов",
+        "company": "DDS",
+        "work_phone": "8 (873) 713-43-90",
+        "personal_phone": "+7 483 775 1964"
+    },
+    {
+        "id": 19,
+        "first_name": "Фадей",
+        "last_name": "Дмитриева",
+        "company": "ЗАО «Зиновьева, Воронцов и Богданова»",
+        "work_phone": "+7 821 784 40 38",
+        "personal_phone": "+7 (096) 807-8530"
+    },
+    {
+        "id": 20,
+        "first_name": "Клавдия",
+        "last_name": "Архипова",
+        "company": "Ростсельмаш",
+        "work_phone": "+7 (258) 677-4340",
+        "personal_phone": "+7 (013) 650-11-45"
+    },
+    {
+        "id": 21,
+        "first_name": "Адам",
+        "last_name": "Никитин",
+        "company": "ЗАО «Ширяев»",
+        "work_phone": "8 563 798 66 62",
+        "personal_phone": "+7 321 743 4489"
+    },
+    {
+        "id": 22,
+        "first_name": "Селиван",
+        "last_name": "Хохлова",
+        "company": "НПО «Михайлова, Соколова и Соболев»",
+        "work_phone": "82831702914",
+        "personal_phone": "+7 902 117 1008"
+    },
+    {
+        "id": 23,
+        "first_name": "Фрол",
+        "last_name": "Новикова",
+        "company": "Силин и партнеры",
+        "work_phone": "+7 633 880 10 07",
+        "personal_phone": "8 478 036 0468"
+    },
+    {
+        "id": 24,
+        "first_name": "Антонина",
+        "last_name": "Матвеева",
+        "company": "Зайцев Лтд",
+        "work_phone": "8 (171) 231-80-70",
+        "personal_phone": "8 (370) 511-7721"
+    },
+    {
+        "id": 25,
+        "first_name": "Владимир",
+        "last_name": "Шилова",
+        "company": "АО «Калашников, Федосеев и Кулакова»",
+        "work_phone": "+7 436 798 4837",
+        "personal_phone": "8 569 777 37 62"
+    },
+    {
+        "id": 26,
+        "first_name": "Еремей",
+        "last_name": "Белова",
+        "company": "Зимин Инк",
+        "work_phone": "8 966 631 8648",
+        "personal_phone": "+75010868709"
+    },
+    {
+        "id": 27,
+        "first_name": "Яков",
+        "last_name": "Юдин",
+        "company": "ЗАО «Галкин, Захарова и Сидоров»",
+        "work_phone": "8 554 075 6852",
+        "personal_phone": "85147237294"
+    },
+    {
+        "id": 28,
+        "first_name": "Мария",
+        "last_name": "Силин",
+        "company": "АО «Гаврилов-Мамонтов»",
+        "work_phone": "+7 (531) 896-59-88",
+        "personal_phone": "84082865647"
+    },
+    {
+        "id": 29,
+        "first_name": "Наталья",
+        "last_name": "Носков",
+        "company": "РАО «Емельянов Аксенова»",
+        "work_phone": "84798915079",
+        "personal_phone": "+7 (358) 802-14-05"
+    },
+    {
+        "id": 30,
+        "first_name": "Нифонт",
+        "last_name": "Блинова",
+        "company": "ИП «Блинова»",
+        "work_phone": "+7 494 874 2331",
+        "personal_phone": "+7 (207) 641-58-20"
+    },
+    {
+        "id": 31,
+        "first_name": "Иван",
+        "last_name": "Королев",
+        "company": "НПО «Осипова, Королев и Чернова»",
+        "work_phone": "+7 162 508 20 15",
+        "personal_phone": "8 (433) 636-3435"
+    },
+    {
+        "id": 32,
+        "first_name": "Наталья",
+        "last_name": "Жданова",
+        "company": "ОАО «Кузнецов»",
+        "work_phone": "+70714973261",
+        "personal_phone": "+7 147 518 56 02"
+    },
+    {
+        "id": 33,
+        "first_name": "Илья",
+        "last_name": "Бирюков",
+        "company": "РАО «Сидорова-Некрасов»",
+        "work_phone": "8 099 343 4930",
+        "personal_phone": "8 (059) 150-6355"
+    },
+    {
+        "id": 34,
+        "first_name": "Руслан",
+        "last_name": "Петухов",
+        "company": "ГК Автомир",
+        "work_phone": "+7 (711) 419-3264",
+        "personal_phone": "+7 938 644 1460"
+    },
+    {
+        "id": 35,
+        "first_name": "Варфоломей",
+        "last_name": "Романов",
+        "company": "ООО «Гуляев, Лаврентьев и Евсеев»",
+        "work_phone": "+7 (780) 776-42-50",
+        "personal_phone": "+7 193 074 8875"
+    },
+    {
+        "id": 36,
+        "first_name": "Алевтина",
+        "last_name": "Михеев",
+        "company": "НПО «Шарова, Брагин и Доронина»",
+        "work_phone": "8 557 221 97 90",
+        "personal_phone": "+7 037 952 70 45"
+    },
+    {
+        "id": 37,
+        "first_name": "Аскольд",
+        "last_name": "Архипова",
+        "company": "СК Росгосстрах",
+        "work_phone": "+7 (665) 126-8124",
+        "personal_phone": "+7 610 049 9249"
+    },
+    {
+        "id": 38,
+        "first_name": "Вышеслав",
+        "last_name": "Осипов",
+        "company": "Громов Инкорпорэйтед",
+        "work_phone": "8 (768) 854-81-14",
+        "personal_phone": "+7 104 481 46 40"
+    },
+    {
+        "id": 39,
+        "first_name": "Савелий",
+        "last_name": "Субботин",
+        "company": "НПО «Колесников, Рыбакова и Филатова»",
+        "work_phone": "8 (472) 199-99-85",
+        "personal_phone": "8 (569) 535-29-98"
+    },
+    {
+        "id": 40,
+        "first_name": "Осип",
+        "last_name": "Третьякова",
+        "company": "Новотранс",
+        "work_phone": "8 (387) 438-9135",
+        "personal_phone": "8 (010) 587-9078"
+    },
+    {
+        "id": 41,
+        "first_name": "Потап",
+        "last_name": "Бобылев",
+        "company": "СДС-Уголь",
+        "work_phone": "+7 476 508 17 96",
+        "personal_phone": "+76526232102"
+    },
+    {
+        "id": 42,
+        "first_name": "Иосиф",
+        "last_name": "Федотов",
+        "company": "Авдеев Инк",
+        "work_phone": "8 882 976 43 21",
+        "personal_phone": "8 172 057 05 75"
+    },
+    {
+        "id": 43,
+        "first_name": "Фотий",
+        "last_name": "Юдин",
+        "company": "Тарасова Групп",
+        "work_phone": "+7 748 734 3792",
+        "personal_phone": "85759407749"
+    },
+    {
+        "id": 44,
+        "first_name": "Всеволод",
+        "last_name": "Григорьев",
+        "company": "КДВ Групп",
+        "work_phone": "+75986992061",
+        "personal_phone": "+75020937613"
+    },
+    {
+        "id": 45,
+        "first_name": "Аникей",
+        "last_name": "Егоров",
+        "company": "ОАО «Морозова»",
+        "work_phone": "8 (236) 345-42-66",
+        "personal_phone": "+7 (891) 649-6261"
+    },
+    {
+        "id": 46,
+        "first_name": "Кондрат",
+        "last_name": "Кулагина",
+        "company": "РАО «Емельянова Князев»",
+        "work_phone": "+7 (920) 039-1565",
+        "personal_phone": "8 637 640 1448"
+    },
+    {
+        "id": 47,
+        "first_name": "Федот",
+        "last_name": "Крылова",
+        "company": "НПО «Беляев-Субботин»",
+        "work_phone": "+70234035765",
+        "personal_phone": "8 220 813 42 75"
+    },
+    {
+        "id": 48,
+        "first_name": "София",
+        "last_name": "Никитина",
+        "company": "Лапин Групп",
+        "work_phone": "+78296471623",
+        "personal_phone": "+7 (180) 621-25-39"
+    },
+    {
+        "id": 49,
+        "first_name": "Кирилл",
+        "last_name": "Шубин",
+        "company": "Арктикгаз",
+        "work_phone": "+70105705763",
+        "personal_phone": "+7 (233) 116-9202"
+    },
+    {
+        "id": 50,
+        "first_name": "Максимильян",
+        "last_name": "Федосеев",
+        "company": "РАО «Матвеева»",
+        "work_phone": "8 (710) 391-6222",
+        "personal_phone": "+7 051 709 9400"
+    }
+]
