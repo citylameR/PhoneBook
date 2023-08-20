@@ -13,23 +13,17 @@ router = APIRouter(prefix="/export")
 
 @router.get("/")
 async def export_contacts(
-        format: str = Query(default="json", description="Формат выгрузки: json"),
         db: Session = Depends(get_db)
 ):
-
     contacts = db.query(models.Contact).all()
 
-    if format == "json":
-        data = contacts_to_json(contacts)
-        filename = "contacts.json"
+    data = contacts_to_json(contacts)
+    filename = "contacts.json"
 
-        project_root = Path(__file__).parent.parent
-        output_path = os.path.join(project_root, filename)
-    else:
-        raise HTTPException(status_code=400, detail="Неподдерживаемый формат")
+    project_root = Path(__file__).parent.parent
+    output_path = os.path.join(project_root, filename)
 
     with open(output_path, "w+", encoding='utf-8') as f:
-      f.write(data)
+        f.write(data)
 
     return {"exported_to": output_path}
-

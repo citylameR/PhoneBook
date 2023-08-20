@@ -8,6 +8,7 @@ def contacts_to_json(contacts):
             'id': contact.id,
             'first_name': contact.first_name,
             'last_name': contact.last_name,
+            'middle_name': contact.middle_name,
             'company': contact.company,
             'work_phone': contact.work_phone,
             'personal_phone': contact.personal_phone
